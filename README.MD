@@ -9,8 +9,8 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aleszilagyi/everis_bcamp_landingpage_instagram?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aleszilagyi/everis_bcamp_landingpage_instagram?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aleszilagyi/js_countdown_timer?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aleszilagyi/js_countdown_timer?style=flat-square">
 </p>
 
 <p align="center">
@@ -37,8 +37,8 @@ Projeto de timer simples, o qual tem como objetivo servir como forma de aprendiz
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aleszilagyi/everis_bcamp_landingpage_instagram?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aleszilagyi/everis_bcamp_landingpage_instagram?style=flat-square">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aleszilagyi/js_countdown_timer?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/aleszilagyi/js_countdown_timer?style=flat-square">
 </p>
 
 <p align="center">
