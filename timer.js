@@ -17,7 +17,9 @@ class Timer {
 
   start = () => {
     if (isNaN(this.timeRemaining)) {
-      this.onInvalidInput();
+      if (this.onInvalidInput) {
+        this.onInvalidInput();
+      } else return;
     } else {
       if (this.onStart) {
         this.onStart(this.timeRemaining);
