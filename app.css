@@ -1,0 +1,81 @@
+:root {
+  font-size: 62.5%;
+}
+
+* {
+  font: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.timer {
+  display: flex;
+  width: 15rem;
+  height: 100vh;
+  margin: auto;
+  align-items: center;
+}
+
+/* taking out that dam spin button from the input */
+.timer input[type="number"]::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+.timer input {
+  display: block;
+  border: none;
+  background: none;
+  width: 11rem;
+  font-size: 3rem;
+  text-align: center;
+  -moz-appearance: textfield;
+}
+
+.buttons {
+  display: flex;
+  width: 60%;
+  height: 20%;
+  justify-content: space-evenly;
+}
+
+.timer button:hover {
+  background: #99eeaa;
+}
+
+.timer button {
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  background: #e2e2e2;
+  width: 3rem;
+  height: 3rem;
+  align-items: center;
+  transition: background 200ms;
+}
+
+.timer button:focus {
+  outline: none;
+}
+
+.timer input:focus {
+  outline: none;
+}
+
+.timer svg {
+  position: absolute;
+}
+
+.controls {
+  position: absolute;
+  width: 15rem;
+  height: 15rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
